@@ -1,0 +1,20 @@
+nav{
+    margin-bottom: 60px;
+}
+
+#input{
+    height: 200px;
+}
+
+.word-container{
+    padding: 10px;
+    display: inline-block;
+    font-size: 30px;
+}
+
+#result{
+    margin: 0 40px;
+    text-align: center;
+    color: peru;
+    font-size: 25px;
+}
