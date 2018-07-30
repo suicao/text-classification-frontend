@@ -1,4 +1,4 @@
-const API = "http://13.58.206.114:80/clf"
+const API = "http://13.58.206.114/clf"
 
 const inputTextarea = document.getElementById("input")
 const submitBtn = document.getElementById("submit-btn")
