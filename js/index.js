@@ -1,4 +1,4 @@
-const API = "http://ec2-13-58-206-114.us-east-2.compute.amazonaws.com"
+const API = "http://ec2-13-58-206-114.us-east-2.compute.amazonaws.com/clf"
 
 const inputTextarea = document.getElementById("input")
 const submitBtn = document.getElementById("submit-btn")
